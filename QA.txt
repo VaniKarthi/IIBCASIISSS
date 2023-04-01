@@ -1,0 +1,14 @@
+1. What is Unix?
+a) Unix is a programming language
+b) Unix is a software program
+c) Unix is an operating system
+d) Unix is a text editor
+View Answer
+
+Answer: c
+Explanation: Unix is an operating system developed in the early 1970’s at Bell Labs by Dennis Ritchie, Ken Thompson, and others. It is a multiuser, multitasking and timesharing operating system. The power of Unix is derived from its commands and their multiple options.
+2. The Unix shell is both _______ and _______ language.
+a) scripting, interpreter
+b) high level, low level
+c) interactive, responsive
+d) interpreter, executing
