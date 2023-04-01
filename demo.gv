@@ -1,0 +1,14 @@
+graph G {
+	node [shape=circle]
+	A
+	B
+	C
+	D
+	E
+	A -- C [color=green]
+	C -- D [color=green]
+	A -- B
+	B -- C
+	A -- E
+	E -- C
+}

@@ -1,0 +1,22 @@
+graph G {
+	rankdir=LR size=8.5
+	node [shape=circle]
+	C
+	D
+	E
+	B
+	A
+	F
+	C -- D
+	D -- E
+	E -- B
+	B -- A
+	A -- F
+	F -- C
+	C -- B
+	C -- A
+	C -- E
+	F -- D
+	B -- F
+	B -- D
+}
